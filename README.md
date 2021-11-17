@@ -7,4 +7,4 @@
 5. Login into your Azure account on [Azure Account](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azure-account) extension
 6. Confirm that the Azure account you use to login can access your Power Apps environment
 
-Once you have all these setup, open [Dataverse Notebook.ipynb](./Dataverse Notebook.ipynb) file in VSCode
+Once you have all these setup, open [Dataverse Notebook.ipynb](Dataverse%20Notebook.ipynb) file in VSCode
